@@ -1,7 +1,6 @@
 # Role Player Pages - Translation
 
-![Logo](RPP_Logo.png)
-
+<img src="RPP_Logo.png" width="200" height="200" />
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
