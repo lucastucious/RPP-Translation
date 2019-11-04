@@ -1,5 +1,5 @@
 # Role Player Pages - Translation
-![](RPP_Logo.png)
+![](RPP_Logo2.png)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
