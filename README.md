@@ -14,3 +14,9 @@ Here is a repo mainly used to store and centralize many ways to share translatio
 ## Contribute
 
 You can contribute to this project by PM me.
+
+## Currently
+
+|  Lang | Project | Stage  | 
+| ----- | ----- | ----- |
+| 🇫🇷 | Dragons | Classes : ✓ </br> Spells : 0 to 3 |
