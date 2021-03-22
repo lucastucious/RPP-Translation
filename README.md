@@ -9,7 +9,7 @@
 
 ## About the project
 
-Here is a repo mainly used to store and centralize many ways to share translation and usage for the Mobile App [Role Player Pages](https://play.google.com/store/apps/details?id=com.siryorgan.roleplayerpages)
+Here is a repo mainly used to store and centralize many ways to share translation and usage for the Mobile App [The 20](https://play.google.com/store/apps/details?id=com.siryorgan.roleplayerpages)
 
 ## Contribute
 
