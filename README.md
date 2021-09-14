@@ -19,4 +19,5 @@ You can contribute to this project by PM me.
 
 |  Lang | Project | Stage  | 
 | ----- | ----- | ----- |
-| 🇫🇷 | Dragons | Classes : ✓ </br> Spells : 0 to 3 |
+| 🇫🇷 | Dragons | Classes : ✓ </br> Spells : All names - Desc up to D |
+| 🇫🇷 | Guide de Xanathar | Classes : ⌧ </br> Spells : All names - Desc up to level 2 |
