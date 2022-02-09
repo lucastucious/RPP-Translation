@@ -1,0 +1,7 @@
+# Integration with Issue Tracker
+#
+# (note that '\' need to be escaped).
+
+[issuetracker "Issue Tracker Rule"]
+  regex = "((?<=#)[0-9]+)"
+  url = "http://185.216.25.221:3000/lucastucious/RPP-Translation/issues/$1"
