@@ -19,5 +19,5 @@ You can contribute to this project by PM me.
 
 |  Lang | Project | Stage  | 
 | ----- | ----- | ----- |
-| 🇫🇷 | Dragons | Classes : ✓ </br> Specialization : ⌧ </br> Spells : All names - Desc up to Q |
+| 🇫🇷 | Dragons | Classes : ✓ </br> Specialization : ⌧ </br> Spells : ✓ |
 | 🇫🇷 | Guide de Xanathar | Classes : ⌧ </br> Spells : All names - Desc up to level 2 |
